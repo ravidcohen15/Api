@@ -1,0 +1,61 @@
+#gameRender {
+    margin: 20px auto;
+    width: 100%;
+}
+
+ul {
+    list-style: none;
+    margin: 10px auto;
+    text-align: center;
+    width: 80%;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+li {
+    display: inline-block;
+    width: 25%;
+    text-align: center;
+    border-right: black solid 1px;
+    box-sizing: border-box;
+    font-size: 10px;
+}
+
+
+.search {
+    width: 100%;
+    margin: 50px auto;
+    height: 15vh;
+}
+
+.search #src {
+    width: 69%;
+    box-sizing: border-box;
+    height: 50px;
+    font-size: 2em;
+}
+
+.search #click {
+    width: 29%;
+    box-sizing: border-box;
+    height: 50px;
+    font-size: 2em;
+
+}
+
+#teamRender {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+}
+
+#teamRender div {
+    width: 40%;
+    display: inline-block;
+    margin: 5px;
+    font-size: 20px;
+    height: 50px;
+    text-align: start;
+    padding: 5px;
+}
